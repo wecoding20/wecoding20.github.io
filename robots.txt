@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wecoding20.git.io/sitemap.xml
