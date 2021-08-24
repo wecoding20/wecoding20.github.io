@@ -2,10 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wecoding20.git.io/post/cs231n_lecture3/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://wecoding20.git.io/categories/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wecoding20.git.io/tags/computer-vision/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wecoding20.git.io/tags/cs231n/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wecoding20.git.io/categories/cs231n/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wecoding20.git.io/tags/deep-learning/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wecoding20.git.io/post/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wecoding20.git.io/tags/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wecoding20.git.io/</loc>
+    <lastmod>2021-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wecoding20.git.io/post/cs231n_lecture1/</loc>
+    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wecoding20.git.io/post/cs231n_lecture2/</loc>
+    <lastmod>2021-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wecoding20.git.io/archives.fr/</loc>
+  </url><url>
+    <loc>https://wecoding20.git.io/archives/</loc>
+  </url><url>
+    <loc>https://wecoding20.git.io/profile/</loc>
+  </url><url>
+    <loc>https://wecoding20.git.io/search/</loc>
+  </url><url>
+    <loc>https://wecoding20.git.io/search.fr/</loc>
   </url>
 </urlset>
