@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CS231n on 잡다한 코딩스터디 WeCoding</title>
-    <link>https://wecoding20.git.io/categories/cs231n/</link>
+    <link>https://wecoding20.github.io/categories/cs231n/</link>
     <description>Recent content in CS231n on 잡다한 코딩스터디 WeCoding</description>
     <image>
-      <url>https://wecoding20.git.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://wecoding20.git.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://wecoding20.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://wecoding20.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wecoding20.git.io/categories/cs231n/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://wecoding20.github.io/categories/cs231n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[CS231n] Lecture 3: Loss Functions and Optimization 강의노트</title>
-      <link>https://wecoding20.git.io/post/cs231n_lecture3/</link>
+      <link>https://wecoding20.github.io/post/cs231n_lecture3/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://wecoding20.git.io/post/cs231n_lecture3/</guid>
+      <guid>https://wecoding20.github.io/post/cs231n_lecture3/</guid>
       <description>Stanford University CS231n 이론 스터디</description>
     </item>
     
     <item>
       <title>[CS231n] Lecture 1: Introduction 강의노트</title>
-      <link>https://wecoding20.git.io/post/cs231n_lecture1/</link>
+      <link>https://wecoding20.github.io/post/cs231n_lecture1/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://wecoding20.git.io/post/cs231n_lecture1/</guid>
+      <guid>https://wecoding20.github.io/post/cs231n_lecture1/</guid>
       <description>Stanford University CS231n 이론 스터디</description>
     </item>
     
     <item>
       <title>[CS231n] Lecture 2: Image Classification pipeline 강의노트</title>
-      <link>https://wecoding20.git.io/post/cs231n_lecture2/</link>
+      <link>https://wecoding20.github.io/post/cs231n_lecture2/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://wecoding20.git.io/post/cs231n_lecture2/</guid>
+      <guid>https://wecoding20.github.io/post/cs231n_lecture2/</guid>
       <description>Stanford University CS231n 이론 스터디</description>
     </item>
     
