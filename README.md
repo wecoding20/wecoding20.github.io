@@ -40,8 +40,8 @@
 root 폴더 :  ```blog```
 
 ```
-├── archetypes 								- MarkDown 템플릿 폴더
-│   └── default.md						- MarkDown 작성시 템플릿 설정 파일
+├── archetypes 					 - MarkDown 템플릿 폴더
+│   └── default.md				 - MarkDown 작성시 템플릿 설정 파일
 │
 ├── assets/                   - 커스텀 폴더
 │   ├── css                   - hugo 테마 'paperMod' 관련 css 폴더
@@ -54,34 +54,34 @@ root 폴더 :  ```blog```
 │   ├── categories.md
 │   ├── eunbi.md
 │   ├── hyeonseok.md
-│   ├── images								- 포스팅에 사용된 image 모아둔 폴더
+│   ├── images					 - 포스팅에 사용된 image 모아둔 폴더
 │   ├── jooheon.md
 │   ├── post                  - 포스팅 할 MD 모아둔 폴더
 │   ├── profile.md
 │   ├── search.fr.md
 │   └── search.md
 │
-├── data				              - data 폴더
-│   └── subclist.yml					- subCategories 설정 파일
+├── data                     - data 폴더
+│   └── subclist.yml         - subCategories 설정 파일
 │
-├── layouts		                - hugo 테마 관련 html 폴더
-│   ├── _default							- 기본 페이지 html 폴더
-│   ├── partials							- 페이지 구성 단위 html 폴더
+├── layouts                  - hugo 테마 관련 html 폴더
+│   ├── _default             - 기본 페이지 html 폴더
+│   ├── partials             - 페이지 구성 단위 html 폴더
 │   ├── shortcodes
 │   ├── 404.html
 │   └── robots.txt
 │
-├── public										- wecoding url에 반영되는 폴더
+├── public                   - wecoding url에 반영되는 폴더
 │
 ├── resources
 │
 ├── static
 │
-├── themes										- 기존 hugo 테마 폴더
+├── themes                   - 기존 hugo 테마 폴더
 │
-├── config.yml                - hugo 웹 설정 파일
-├── deploy.sh									- hugo 자동 커밋 쉘
-└── README.md									- 리드미 파일
+├── config.yml               - hugo 웹 설정 파일
+├── deploy.sh                - hugo 자동 커밋 쉘
+└── README.md
 
 ```
 
